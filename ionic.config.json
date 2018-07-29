@@ -1,0 +1,7 @@
+{
+  "name": "sidemenu-demo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
